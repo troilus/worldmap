@@ -5,8 +5,8 @@ var UnminedMapProperties = {
     defaultZoom: 0,
     imageFormat: "png",
     minRegionX: -5,
-    minRegionZ: -5,
-    maxRegionX: 4,
+    minRegionZ: -7,
+    maxRegionX: 14,
     maxRegionZ: 3,
     worldName: "CentOS"
 }
